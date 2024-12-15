@@ -1,0 +1,5 @@
+step 1: install multer
+step 2:change in view
+step 3: Middleware to handle files
+step 4: apply Middleware
+step 5: Update Controller to update urls of images.
